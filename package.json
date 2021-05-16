@@ -1,0 +1,14 @@
+{
+  "name": "uci-unit8-mini-project",
+  "version": "1.0.0",
+  "description": "Portfolio generator",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michelle Nguyen",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
