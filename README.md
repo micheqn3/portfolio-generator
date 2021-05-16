@@ -15,6 +15,10 @@ The application will append the README to the sample folder.<br> <br> The sample
 > npm install
 4. Run the application in command line 
 > node index.js
+> 
+### Command line 
+
+![Command line](/Assets/terminal.png)
 
 ### This repository contains: 
 
@@ -28,9 +32,7 @@ The application will append the README to the sample folder.<br> <br> The sample
   4. Enter your Github username.
   5. Enter your LinkedIn URL.
 
-### Demo/ Command line + sample generated HTML
-
-![Command line](/Assets/terminal.png)
+### Sample generated HTML
 
 ![Sample HTML](/Assets/sample-html.png)
 
