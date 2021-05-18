@@ -32,6 +32,12 @@ The application will append the README to the sample folder.<br> <br> The sample
   4. Enter your Github username.
   5. Enter your LinkedIn URL.
 
+### Technologies/Languages used: 
+
+  - JavaScript
+  - Node.js
+  - Inquirer
+
 ### Sample generated HTML
 
 ![Sample HTML](/Assets/sample-html.png)
