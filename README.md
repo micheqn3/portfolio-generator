@@ -2,7 +2,7 @@
 ## Portfolio Generator 
 
 This repository contains a portfolio generator that is run through the command line using Node.js. 
-The application will append the README to the sample folder.<br> <br> The sample HTML generated using the application can be found in /sample/
+The application will append the README to the sample folder.<br> <br> The sample HTML generated using the application can be found in /sample.
 
 
 ### Installation 
@@ -14,7 +14,7 @@ The application will append the README to the sample folder.<br> <br> The sample
 3. Install the NPM package (inquirer)
 > npm install
 4. Run the application in command line 
-> node index.js
+> node index
 > 
 
 ![Command line](/Assets/command-line.png)
@@ -23,13 +23,6 @@ The application will append the README to the sample folder.<br> <br> The sample
 
   - index.js - This script uses the inquirer package to present to the user a series of questions for their portfolio. The 
   application then retrieves the user's data and generates an HTML file styled with Bootstrap.
-  
-  Questions asked:
-  1. What is your name?
-  2. What is your location?
-  3. What do you want your bio to be?
-  4. Enter your Github username.
-  5. Enter your LinkedIn URL.
 
 ### Technologies/Languages used: 
 
