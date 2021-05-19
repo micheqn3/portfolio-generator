@@ -16,9 +16,8 @@ The application will append the README to the sample folder.<br> <br> The sample
 4. Run the application in command line 
 > node index.js
 > 
-### Command line 
 
-![Command line](/Assets/terminal.png)
+![Command line](/Assets/command-line.png)
 
 ### This repository contains: 
 
